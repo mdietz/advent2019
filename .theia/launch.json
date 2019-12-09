@@ -1,0 +1,11 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - DayOne",
+         "request": "launch",
+         "mainClass": "advent.day.one.DayOne",
+         "projectName": "advent"
+      }
+   ]
+}
